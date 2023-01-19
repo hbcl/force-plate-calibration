@@ -3,12 +3,12 @@ Use motion capture &amp; instrumented pole to calibrate 6-axis force plates &amp
 
 Goal: Produce an instructables-style tutorial showing what is needed and how to perform calibration, along with code and some sample data.
 
-Here are examples of instructables guides: [Instrument calibration](https://www.instructables.com/Atlas-Scientific-EZO-EC-Calibration-Procedure/) and [Flowmeter calibration](https://www.instructables.com/Calibration-of-Flowmeters-Matthew-Mota/). Ideally 
+Here are examples of instructables guides: [Instrument calibration](https://www.instructables.com/Atlas-Scientific-EZO-EC-Calibration-Procedure/) and [Flowmeter calibration](https://www.instructables.com/Calibration-of-Flowmeters-Matthew-Mota/). 
 
 Things to do:
 1. Photos and video of procedure
 2. List of equipment with brief descriptions of what and why
-3. Step-by-step instructions
+3. Step-by-step instructions accompanied by photos
 4. Sample data for a standard set-up
 5. Code that demonstrates calibration
 6. Code to quantify and describe results
