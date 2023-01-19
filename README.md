@@ -1,7 +1,7 @@
 # force-plate-calibration
 Use motion capture &amp; instrumented pole to calibrate 6-axis force plates &amp; force treadmills
 
-Goal: Produce an instructables-style tutorial showing what is needed and how to perform calibration, along with code and some sample data.
+Goal: Produce an instructables-style tutorial showing what is needed and how to perform calibration, along with code and some sample data. Ideally the procedure will be documented well enough that undergraduate students with a small amount of lab experience could perform a calibration and know how well it worked.
 
 Here are examples of instructables guides: [Instrument calibration](https://www.instructables.com/Atlas-Scientific-EZO-EC-Calibration-Procedure/) and [Flowmeter calibration](https://www.instructables.com/Calibration-of-Flowmeters-Matthew-Mota/). 
 
