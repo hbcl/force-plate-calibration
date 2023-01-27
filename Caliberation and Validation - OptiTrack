@@ -1,0 +1,8 @@
+This repository is to provide insight how to calibrate the Force-Plate (instrumented treadmills) using passive motion capture. Main steps are:
+  1.	Defining the origin of treadmill /force-plate where the moments are calculated about as the origin of motion capture system (two systems origins to coincide)
+  2.	Define the orientation of the instrumented pole using four markers in 3D space. The force exerted on the treadmill follows the direction of the instrumented pole.
+  3.	Selecting a point on instrumented pole to define its position (x, y, z) with respect to the origin. This position constitutes a vector to calculate the forces’ momentums about the origin: M = r x F
+This repository contains three folders:
+  1.	Transformation Matrix: to calculate the transformation matrix based on the collected force and motion capture data (training set)
+  2.	Cross validation to compare the estimate results with the test set.
+  3.	Load placement sensitivity: to check the sensitivity of load estimations based on loads magnitudes and locations of loads placements.
